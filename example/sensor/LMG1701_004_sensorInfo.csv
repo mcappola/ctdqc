@@ -1,0 +1,12 @@
+Sensor Channel,Serial Number,Calibration Date
+" Frequency 0, Temperature ",4573,04-Feb-15
+" Frequency 1, Conductivity ",2065,23-Jun-15
+" Frequency 2, Pressure, Digiquartz with TC ",0232,11-Apr-16
+" Frequency 3, Temperature, 2 ",5025,22-Apr-15
+" Frequency 4, Conductivity, 2 ",2247,23-Apr-15
+" A/D voltage 0, Oxygen, SBE 43 ",0196,10-May-16
+" A/D voltage 1, Oxygen, SBE 43, 2 ",0190,10-May-16
+" A/D voltage 2, Fluorometer, WET Labs ECO-AFL/FL ",FLRTD-398,18-Jun-15
+" A/D voltage 3, PAR/Irradiance, Biospherical/Licor ",4722,17-Feb-15
+" A/D voltage 4, Transmissometer, WET Labs C-Star ",CST-553DR,10-Jun-2016
+" A/D voltage 6, Altimeter ",6606,
