@@ -7,6 +7,9 @@ CTD processing should be quick, easy, and reproducible. The enemy of this is a h
 
 To reduce complexity, data visualization functions and most data extraction functions use the CNV/ROS filename as the primary argument. Future additions will also adhere to this for ease of use. Collaborators are welcome as this package is far from complete. Available functions have been tested on output from the SBE9 and SBE19, but many of the data extraction functions will likely work on most SBE CTDs as the CNV file format is highly standardized. If you want to help extend this package to other SBE sensors or add additional data visualization functions, feel free to reach out!
 
+An essential resource for planning this collection of functions: 
+https://www.seabird.com/asset-get.download.jsa?id=69833854944
+
 ## Function Descriptions
 
 More detailed descritions on arguments and output can be found in the header of each function.
